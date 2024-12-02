@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gwangju.playrooms.store/sitemap.xml
